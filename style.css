@@ -11,6 +11,7 @@ div.newspaper-container {
 ul {
     border-top: 2px solid lightgray;
     border-bottom: 2px solid lightgray;
+    
 }
 ul#footer {
     border-top: 2px solid lightgray;
@@ -24,13 +25,15 @@ ul > li {
     list-style: none;
     display: inline-block;
     padding: 5px;
+    margin: auto;
 }
 li > a {
-    color: lightgray;
+    color: darkgray;
     text-decoration: none;
+    margin: 0 0 0 -5px;
 }
 li > a:hover {
-    color: darkgray;
+    color: black;
     text-decoration: underline;
 }
 h1 {
