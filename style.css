@@ -47,6 +47,9 @@ header {
     font-family: 'Abril Fatface';
 
 }
+header div {
+    font-family: 'Source Sans Pro';
+}
 h2 {
     font-family: 'Roboto Slab';
 }
